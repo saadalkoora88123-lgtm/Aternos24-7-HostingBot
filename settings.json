@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "creatorsdungeon.aternos.me",
+    "port": 48596,
     "version": "",
     "try-creative": false
   },
